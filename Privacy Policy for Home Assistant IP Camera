@@ -1,1 +1,41 @@
-
+Last Updated: August 14, 2026
+Home Assistant IP Camera ("we", "our", or "the App") is committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our professional IP camera software.
+1. Data Collection and Usage
+The App is a tool designed to turn your Android device into an IP camera for use with Home Assistant and other local monitoring systems.
+•
+Camera Data: The App accesses your device's camera to capture video for real-time streaming.
+•
+Microphone Data: The App accesses your device's microphone to capture audio for real-time streaming.
+•
+Local Processing: All video and audio processing occurs entirely on your device.
+2. No Third-Party Sharing
+We do not collect, store, or share your personal data, video, or audio on any external servers. Your streams are transmitted directly from your device to your private local network via the RTSP protocol. Data never leaves your network unless you have specifically configured your own remote VPN or proxy.
+3. Required Permissions
+To function correctly, the App requires the following permissions:
+•
+Camera: Used solely to capture the video feed for monitoring.
+•
+Microphone: Used solely to capture audio for the monitor stream.
+•
+Foreground Service: Required to maintain the camera stream when the app is minimized or the device screen is off.
+•
+Internet Access: Required to broadcast the RTSP stream within your local Wi-Fi network.
+•
+Notifications: Used to provide a persistent control to stop the camera service easily.
+4. Prominent Disclosure
+The App displays a prominent disclosure before requesting access to the camera and microphone. By clicking "ACCEPT" in the App, you explicitly consent to the background usage of these sensors for the purpose of continuous home monitoring.
+5. Security
+The App provides settings to set a RTSP Username and Password. We strongly recommend using these features to prevent unauthorized access to your stream by other devices on your local network.
+6. User Control
+You have full control over the App's operation. You can stop the camera service and monitoring at any time via:
+•
+The "Stop" button in the persistent notification.
+•
+Closing the monitoring service within the App's settings.
+7. Children's Privacy
+Our App does not collect any personal information from anyone, including children under the age of 13.
+8. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+9. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: contact.dostified@gmail.com
+💡 Tips for GitHub Hosting:
